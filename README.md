@@ -1,5 +1,5 @@
 # Atlas
-
+(This project was built as a Hackathon Project, apologies for a little messy codebase)
 Atlas is an intelligent goal-planning and scheduling platform designed to help you break down complex tasks—like studying System Design—into actionable subtasks with AI-powered mind mapping and smart scheduling.
 
 ## 🚀 Project Overview
