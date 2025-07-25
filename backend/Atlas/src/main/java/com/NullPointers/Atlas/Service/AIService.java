@@ -1,5 +1,6 @@
 package com.NullPointers.Atlas.Service;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -11,7 +12,8 @@ import java.util.Map;
 @Service
 public class AIService {
     private String apiUrl = "https://api.groq.com/openai/v1/chat/completions";
-    private String apiKey = "";
+    @Value("${Groq_Api_Key}")
+    private String apiKey;
 
     public String apiCall(String prompt) {
         RestTemplate restTemplate = new RestTemplate();
