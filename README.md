@@ -80,7 +80,3 @@ Atlas uses AI to analyze your input and generate a hierarchical breakdown of you
 ## 📝 License
 
 This project is licensed under the MIT License.
-
----
-
-*Built with ❤️ using React, TypeScript, and Spring Boot.*
