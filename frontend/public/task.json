@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "final_task_date": "2025-06-28",
+    "task_date": "2025-06-25",
+    "assigned_date": "2025-06-25",
+    "task_duration_in_minutes": 216,
+    "task_name": "Deep Dive into Classes and Objects",
+    "task_priority": 4
+  },
+  {
+    "id": "2",
+    "final_task_date": "2025-06-26",
+    "task_date": "2025-06-24",
+    "assigned_date": "2025-06-24",
+    "task_duration_in_minutes": 43,
+    "task_name": "Read about Encapsulation Principles",
+    "task_priority": 3
+  },
+  {
+    "id": "3",
+    "final_task_date": "2025-06-28",
+    "task_date": "2025-06-24",
+    "assigned_date": "2025-06-24",
+    "task_duration_in_minutes": 73,
+    "task_name": "Implement a Simple OOP Project",
+    "task_priority": 3
+  },
+  {
+    "id": "4",
+    "final_task_date": "2025-06-27",
+    "task_date": "2025-06-24",
+    "assigned_date": "2025-06-24",
+    "task_duration_in_minutes": 23,
+    "task_name": "Study Class Constructors and Destructors",
+    "task_priority": 3
+  },
+  {
+    "id": "5",
+    "final_task_date": "2025-06-30",
+    "task_date": "2025-06-26",
+    "assigned_date": "2025-06-26",
+    "task_duration_in_minutes": 180,
+    "task_name": "Revise SOLID Principles",
+    "task_priority": 1
+  },
+  {
+    "id": "6",
+    "final_task_date": "2025-06-28",
+    "task_date": "2025-06-25",
+    "assigned_date": "2025-06-25",
+    "task_duration_in_minutes": 124,
+    "task_name": "Practice Inheritance with Code Examples",
+    "task_priority": 2
+  },
+  {
+    "id": "7",
+    "final_task_date": "2025-06-28",
+    "task_date": "2025-06-26",
+    "assigned_date": "2025-06-26",
+    "task_duration_in_minutes": 53,
+    "task_name": "Watch Lecture on Polymorphism",
+    "task_priority": 4
+  },
+  {
+    "id": "8",
+    "final_task_date": "2025-06-29",
+    "task_date": "2025-06-26",
+    "assigned_date": "2025-06-26",
+    "task_duration_in_minutes": 156,
+    "task_name": "Build an OOP Design Pattern Demo",
+    "task_priority": 4
+  },
+  {
+    "id": "9",
+    "final_task_date": "2025-06-28",
+    "task_date": "2025-06-27",
+    "assigned_date": "2025-06-27",
+    "task_duration_in_minutes": 202,
+    "task_name": "Practice Method Overriding and Overloading",
+    "task_priority": 2
+  },
+  {
+    "id": "10",
+    "final_task_date": "2025-07-02",
+    "task_date": "2025-06-28",
+    "assigned_date": "2025-06-28",
+    "task_duration_in_minutes": 20,
+    "task_name": "Quick Review of Access Specifiers",
+    "task_priority": 3
+  }
+]
